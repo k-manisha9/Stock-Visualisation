@@ -1,0 +1,2 @@
+ys)
+# plt.plot(amazon)
